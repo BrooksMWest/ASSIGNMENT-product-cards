@@ -1,3 +1,14 @@
 body {
   background-color: aqua;
 }
+.sockheader {
+  color: aqua;
+}
+.allCards {
+  display: flex;
+  flex-direction: row;
+
+}
+.card-border {
+  border: solid black 5px;
+}
