@@ -1,6 +1,8 @@
 
 .sockheader {
+  text-align: center;
   color: aqua;
+  border: solid 1px lightblue
 }
 .allCards {
   display: flex;
@@ -9,11 +11,22 @@
 }
 
 .productDescription {
-  color: green;
+  font-weight: bold
+  
 }
 .product-specs {
   border: solid 5px;
 }
 .sock-pricing {
-  
+  font-weight: bold;
+}
+.specs-header {
+  font-weight: bold;
+}
+.productAvailability {
+  color: yellow;
+
+}
+.card-body {
+  background-color: gray;
 }
