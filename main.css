@@ -1,14 +1,19 @@
-body {
-  background-color: aqua;
-}
+
 .sockheader {
   color: aqua;
 }
 .allCards {
   display: flex;
   flex-direction: row;
-
+  justify-content: space-evenly;
 }
-.card-border {
-  border: solid black 5px;
+
+.productDescription {
+  color: green;
+}
+.product-specs {
+  border: solid 5px;
+}
+.sock-pricing {
+  
 }
